@@ -53,3 +53,6 @@ CREATE TABLE IF NOT EXISTS order_details (
 Authors
 author_name
 Books
+Customers
+customer_name VARCHAR(215)
+email VARCHAR(215)
