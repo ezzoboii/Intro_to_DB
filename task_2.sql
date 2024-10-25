@@ -56,3 +56,5 @@ Books
 Customers
 customer_name VARCHAR(215)
 email VARCHAR(215)
+
+Orders", "FOREIGN KEY (customer_id) REFERENCES Customers(customer_id)
